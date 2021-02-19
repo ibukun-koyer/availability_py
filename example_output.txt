@@ -1,0 +1,504 @@
+==============================STAGE 1(RAW SCHEDULE)==================
+alex daniella
+--------------
+Monday=>0:00am-1:00am, 4:00am-5:00am, 11:00am-12:00am, 15:00pm-16:00pm, 19:00pm-20:00pm
+
+Tuesday=>10:00am-11:00am, 15:00pm-16:00pm
+
+Wednesday=>7:00am-8:00am, 8:00am-9:00am, 16:00pm-17:00pm, 20:00pm-21:00pm
+
+Thursday=>2:00am-3:00am, 9:00am-10:00am, 10:00am-11:00am, 14:00pm-15:00pm, 22:00pm-23:00pm
+
+Friday=>0:00am-1:00am, 1:00am-2:00am
+
+Saturday=>
+
+Sunday=>0:00am-1:00am, 11:00am-12:00am, 19:00pm-20:00pm
+
+===============STAGE 2(CONVERT TO FLOAT REPRESENTATION)===============
+alex daniella:
+--------------
+
+	Monday:
+		0.0 to 1.0
+		4.0 to 5.0
+		11.0 to 12.0
+		15.0 to 16.0
+		19.0 to 20.0
+	Tuesday:
+		10.0 to 11.0
+		15.0 to 16.0
+	Wednesday:
+		7.0 to 8.0
+		8.0 to 9.0
+		16.0 to 17.0
+		20.0 to 21.0
+	Thursday:
+		2.0 to 3.0
+		9.0 to 10.0
+		10.0 to 11.0
+		14.0 to 15.0
+		22.0 to 23.0
+	Friday:
+		0.0 to 1.0
+		1.0 to 2.0
+	Saturday:
+	Sunday:
+		0.0 to 1.0
+		11.0 to 12.0
+		19.0 to 20.0
+==============================STAGE 1(RAW SCHEDULE)==================
+khan tonya
+--------------
+Monday=>4:00am-5:00am, 10:00am-11:00am, 11:00am-12:00am, 19:00pm-20:00pm
+
+Tuesday=>0:00am-1:00am, 9:00am-10:00am, 14:00pm-15:00pm, 16:00pm-17:00pm
+
+Wednesday=>0:00am-1:00am, 5:00am-6:00am, 11:00am-12:00am
+
+Thursday=>8:00am-9:00am, 20:00pm-21:00pm
+
+Friday=>4:00am-5:00am
+
+Saturday=>2:00am-3:00am, 5:00am-6:00am, 7:00am-8:00am, 13:00pm-14:00pm
+
+Sunday=>6:00am-7:00am, 8:00am-9:00am, 10:00am-11:00am, 15:00pm-16:00pm
+
+===============STAGE 2(CONVERT TO FLOAT REPRESENTATION)===============
+khan tonya:
+--------------
+
+	Monday:
+		4.0 to 5.0
+		10.0 to 11.0
+		11.0 to 12.0
+		19.0 to 20.0
+	Tuesday:
+		0.0 to 1.0
+		9.0 to 10.0
+		14.0 to 15.0
+		16.0 to 17.0
+	Wednesday:
+		0.0 to 1.0
+		5.0 to 6.0
+		11.0 to 12.0
+	Thursday:
+		8.0 to 9.0
+		20.0 to 21.0
+	Friday:
+		4.0 to 5.0
+	Saturday:
+		2.0 to 3.0
+		5.0 to 6.0
+		7.0 to 8.0
+		13.0 to 14.0
+	Sunday:
+		6.0 to 7.0
+		8.0 to 9.0
+		10.0 to 11.0
+		15.0 to 16.0
+==============================STAGE 1(RAW SCHEDULE)==================
+tonya red
+--------------
+Monday=>9:00am-10:00am, 16:00pm-17:00pm
+
+Tuesday=>10:00am-11:00am, 20:00pm-21:00pm
+
+Wednesday=>11:00am-12:00am
+
+Thursday=>11:00am-12:00am, 17:00pm-18:00pm
+
+Friday=>2:00am-3:00am, 4:00am-5:00am, 6:00am-7:00am, 18:00pm-19:00pm, 21:00pm-22:00pm
+
+Saturday=>3:00am-4:00am, 6:00am-7:00am, 16:00pm-17:00pm, 21:00pm-22:00pm
+
+Sunday=>6:00am-7:00am, 17:00pm-18:00pm, 18:00pm-19:00pm
+
+===============STAGE 2(CONVERT TO FLOAT REPRESENTATION)===============
+tonya red:
+--------------
+
+	Monday:
+		9.0 to 10.0
+		16.0 to 17.0
+	Tuesday:
+		10.0 to 11.0
+		20.0 to 21.0
+	Wednesday:
+		11.0 to 12.0
+	Thursday:
+		11.0 to 12.0
+		17.0 to 18.0
+	Friday:
+		2.0 to 3.0
+		4.0 to 5.0
+		6.0 to 7.0
+		18.0 to 19.0
+		21.0 to 22.0
+	Saturday:
+		3.0 to 4.0
+		6.0 to 7.0
+		16.0 to 17.0
+		21.0 to 22.0
+	Sunday:
+		6.0 to 7.0
+		17.0 to 18.0
+		18.0 to 19.0
+==============================STAGE 1(RAW SCHEDULE)==================
+judy lucas
+--------------
+Monday=>2:00am-3:00am, 11:00am-12:00am, 18:00pm-19:00pm, 20:00pm-21:00pm, 22:00pm-23:00pm
+
+Tuesday=>6:00am-7:00am, 18:00pm-19:00pm
+
+Wednesday=>7:00am-8:00am, 12:00pm-13:00pm, 16:00pm-17:00pm
+
+Thursday=>4:00am-5:00am
+
+Friday=>6:00am-7:00am, 9:00am-10:00am, 15:00pm-16:00pm
+
+Saturday=>5:00am-6:00am, 16:00pm-17:00pm, 22:00pm-23:00pm
+
+Sunday=>6:00am-7:00am, 17:00pm-18:00pm
+
+===============STAGE 2(CONVERT TO FLOAT REPRESENTATION)===============
+judy lucas:
+--------------
+
+	Monday:
+		2.0 to 3.0
+		11.0 to 12.0
+		18.0 to 19.0
+		20.0 to 21.0
+		22.0 to 23.0
+	Tuesday:
+		6.0 to 7.0
+		18.0 to 19.0
+	Wednesday:
+		7.0 to 8.0
+		12.0 to 13.0
+		16.0 to 17.0
+	Thursday:
+		4.0 to 5.0
+	Friday:
+		6.0 to 7.0
+		9.0 to 10.0
+		15.0 to 16.0
+	Saturday:
+		5.0 to 6.0
+		16.0 to 17.0
+		22.0 to 23.0
+	Sunday:
+		6.0 to 7.0
+		17.0 to 18.0
+==============================STAGE 1(RAW SCHEDULE)==================
+rice mary
+--------------
+Monday=>2:00am-3:00am, 13:00pm-14:00pm, 15:00pm-16:00pm
+
+Tuesday=>9:00am-10:00am, 10:00am-11:00am, 21:00pm-22:00pm
+
+Wednesday=>11:00am-12:00am
+
+Thursday=>
+
+Friday=>5:00am-6:00am, 13:00pm-14:00pm
+
+Saturday=>8:00am-9:00am, 16:00pm-17:00pm, 17:00pm-18:00pm
+
+Sunday=>3:00am-4:00am, 4:00am-5:00am, 10:00am-11:00am, 20:00pm-21:00pm
+
+===============STAGE 2(CONVERT TO FLOAT REPRESENTATION)===============
+rice mary:
+--------------
+
+	Monday:
+		2.0 to 3.0
+		13.0 to 14.0
+		15.0 to 16.0
+	Tuesday:
+		9.0 to 10.0
+		10.0 to 11.0
+		21.0 to 22.0
+	Wednesday:
+		11.0 to 12.0
+	Thursday:
+	Friday:
+		5.0 to 6.0
+		13.0 to 14.0
+	Saturday:
+		8.0 to 9.0
+		16.0 to 17.0
+		17.0 to 18.0
+	Sunday:
+		3.0 to 4.0
+		4.0 to 5.0
+		10.0 to 11.0
+		20.0 to 21.0
+==============================STAGE 1(RAW SCHEDULE)==================
+johnny leon
+--------------
+Monday=>5:00am-6:00am, 8:00am-9:00am, 19:00pm-20:00pm
+
+Tuesday=>10:00am-11:00am, 19:00pm-20:00pm
+
+Wednesday=>6:00am-7:00am, 14:00pm-15:00pm, 17:00pm-18:00pm
+
+Thursday=>10:00am-11:00am, 12:00pm-13:00pm, 19:00pm-20:00pm
+
+Friday=>11:00am-12:00am, 21:00pm-22:00pm
+
+Saturday=>0:00am-1:00am, 11:00am-12:00am, 18:00pm-19:00pm
+
+Sunday=>2:00am-3:00am
+
+===============STAGE 2(CONVERT TO FLOAT REPRESENTATION)===============
+johnny leon:
+--------------
+
+	Monday:
+		5.0 to 6.0
+		8.0 to 9.0
+		19.0 to 20.0
+	Tuesday:
+		10.0 to 11.0
+		19.0 to 20.0
+	Wednesday:
+		6.0 to 7.0
+		14.0 to 15.0
+		17.0 to 18.0
+	Thursday:
+		10.0 to 11.0
+		12.0 to 13.0
+		19.0 to 20.0
+	Friday:
+		11.0 to 12.0
+		21.0 to 22.0
+	Saturday:
+		0.0 to 1.0
+		11.0 to 12.0
+		18.0 to 19.0
+	Sunday:
+		2.0 to 3.0
+==============================STAGE 1(RAW SCHEDULE)==================
+indigo blake
+--------------
+Monday=>5:00am-6:00am, 6:00am-7:00am, 8:00am-9:00am, 11:00am-12:00am
+
+Tuesday=>7:00am-8:00am, 13:00pm-14:00pm
+
+Wednesday=>9:00am-10:00am, 19:00pm-20:00pm, 21:00pm-22:00pm
+
+Thursday=>6:00am-7:00am, 11:00am-12:00am
+
+Friday=>
+
+Saturday=>6:00am-7:00am
+
+Sunday=>7:00am-8:00am, 16:00pm-17:00pm, 19:00pm-20:00pm
+
+===============STAGE 2(CONVERT TO FLOAT REPRESENTATION)===============
+indigo blake:
+--------------
+
+	Monday:
+		5.0 to 6.0
+		6.0 to 7.0
+		8.0 to 9.0
+		11.0 to 12.0
+	Tuesday:
+		7.0 to 8.0
+		13.0 to 14.0
+	Wednesday:
+		9.0 to 10.0
+		19.0 to 20.0
+		21.0 to 22.0
+	Thursday:
+		6.0 to 7.0
+		11.0 to 12.0
+	Friday:
+	Saturday:
+		6.0 to 7.0
+	Sunday:
+		7.0 to 8.0
+		16.0 to 17.0
+		19.0 to 20.0
+==============================STAGE 1(RAW SCHEDULE)==================
+alex justin
+--------------
+Monday=>
+
+Tuesday=>3:00am-4:00am, 7:00am-8:00am, 15:00pm-16:00pm
+
+Wednesday=>0:00am-1:00am, 4:00am-5:00am, 5:00am-6:00am, 12:00pm-13:00pm, 13:00pm-14:00pm, 16:00pm-17:00pm, 17:00pm-18:00pm
+
+Thursday=>11:00am-12:00am, 17:00pm-18:00pm
+
+Friday=>0:00am-1:00am, 4:00am-5:00am, 9:00am-10:00am
+
+Saturday=>3:00am-4:00am, 4:00am-5:00am, 5:00am-6:00am, 17:00pm-18:00pm, 19:00pm-20:00pm, 21:00pm-22:00pm
+
+Sunday=>8:00am-9:00am, 16:00pm-17:00pm
+
+===============STAGE 2(CONVERT TO FLOAT REPRESENTATION)===============
+alex justin:
+--------------
+
+	Monday:
+	Tuesday:
+		3.0 to 4.0
+		7.0 to 8.0
+		15.0 to 16.0
+	Wednesday:
+		0.0 to 1.0
+		4.0 to 5.0
+		5.0 to 6.0
+		12.0 to 13.0
+		13.0 to 14.0
+		16.0 to 17.0
+		17.0 to 18.0
+	Thursday:
+		11.0 to 12.0
+		17.0 to 18.0
+	Friday:
+		0.0 to 1.0
+		4.0 to 5.0
+		9.0 to 10.0
+	Saturday:
+		3.0 to 4.0
+		4.0 to 5.0
+		5.0 to 6.0
+		17.0 to 18.0
+		19.0 to 20.0
+		21.0 to 22.0
+	Sunday:
+		8.0 to 9.0
+		16.0 to 17.0
+==============================STAGE 1(RAW SCHEDULE)==================
+justin matt
+--------------
+Monday=>7:00am-8:00am, 14:00pm-15:00pm
+
+Tuesday=>3:00am-4:00am, 13:00pm-14:00pm, 19:00pm-20:00pm
+
+Wednesday=>4:00am-5:00am, 13:00pm-14:00pm, 21:00pm-22:00pm
+
+Thursday=>3:00am-4:00am, 4:00am-5:00am, 11:00am-12:00am, 19:00pm-20:00pm
+
+Friday=>5:00am-6:00am, 16:00pm-17:00pm
+
+Saturday=>4:00am-5:00am, 9:00am-10:00am, 17:00pm-18:00pm, 22:00pm-23:00pm
+
+Sunday=>5:00am-6:00am
+
+===============STAGE 2(CONVERT TO FLOAT REPRESENTATION)===============
+justin matt:
+--------------
+
+	Monday:
+		7.0 to 8.0
+		14.0 to 15.0
+	Tuesday:
+		3.0 to 4.0
+		13.0 to 14.0
+		19.0 to 20.0
+	Wednesday:
+		4.0 to 5.0
+		13.0 to 14.0
+		21.0 to 22.0
+	Thursday:
+		3.0 to 4.0
+		4.0 to 5.0
+		11.0 to 12.0
+		19.0 to 20.0
+	Friday:
+		5.0 to 6.0
+		16.0 to 17.0
+	Saturday:
+		4.0 to 5.0
+		9.0 to 10.0
+		17.0 to 18.0
+		22.0 to 23.0
+	Sunday:
+		5.0 to 6.0
+==============================STAGE 1(RAW SCHEDULE)==================
+william rice
+--------------
+Monday=>11:00am-12:00am, 17:00pm-18:00pm
+
+Tuesday=>9:00am-10:00am, 21:00pm-22:00pm
+
+Wednesday=>11:00am-12:00am, 14:00pm-15:00pm, 15:00pm-16:00pm, 22:00pm-23:00pm
+
+Thursday=>8:00am-9:00am, 12:00pm-13:00pm
+
+Friday=>7:00am-8:00am, 14:00pm-15:00pm, 19:00pm-20:00pm
+
+Saturday=>10:00am-11:00am, 16:00pm-17:00pm
+
+Sunday=>5:00am-6:00am, 8:00am-9:00am, 16:00pm-17:00pm, 17:00pm-18:00pm
+
+===============STAGE 2(CONVERT TO FLOAT REPRESENTATION)===============
+william rice:
+--------------
+
+	Monday:
+		11.0 to 12.0
+		17.0 to 18.0
+	Tuesday:
+		9.0 to 10.0
+		21.0 to 22.0
+	Wednesday:
+		11.0 to 12.0
+		14.0 to 15.0
+		15.0 to 16.0
+		22.0 to 23.0
+	Thursday:
+		8.0 to 9.0
+		12.0 to 13.0
+	Friday:
+		7.0 to 8.0
+		14.0 to 15.0
+		19.0 to 20.0
+	Saturday:
+		10.0 to 11.0
+		16.0 to 17.0
+	Sunday:
+		5.0 to 6.0
+		8.0 to 9.0
+		16.0 to 17.0
+		17.0 to 18.0
+========================STAGE 3(CALCULATING FREE SPOTS)===============================
+Monday: 
+[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+Tuesday: 
+[1 1 0 1 1 0 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 0]
+Wednesday: 
+[1 1 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+Thursday: 
+[0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1]
+Friday: 
+[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0]
+Saturday: 
+[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1]
+Sunday: 
+[1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 1 1 1 1 1 1 1 0 0]
+===============STAGE 4(THE ACTUAL FREE TIME, OUTPUT IN FLOAT FORM WHICH IS CLOSE TO ACTUAL FORM)===============
+Monday
+Tuesday
+	1.0 to 3.0
+	4.0 to 6.0
+	11.0 to 13.0
+	22.0 to 0.0
+Wednesday
+	1.0 to 4.0
+Thursday
+	0.0 to 2.0
+	15.0 to 17.0
+Friday
+	22.0 to 0.0
+Saturday
+	14.0 to 16.0
+Sunday
+	12.0 to 15.0
+	21.0 to 0.0
